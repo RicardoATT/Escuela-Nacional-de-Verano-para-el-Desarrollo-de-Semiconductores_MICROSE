@@ -1,2 +1,2 @@
-# Escuela-Nacional-de-Verano-para-el-Desarrollo-de-Semiconductores_MICROSE
+# Escuela Nacional de Verano para el Desarrollo de Semiconductores - MICROSE
 Wiki acerca de la Escuela  Nacional de Verano para el Desarrollo de Semiconductores, impartida el 13 de marzo del 2023. A lo largo de esta guía, se proporcionará ayuda al usuario para mejorar su experiencia durante el curso presentado por el Laboratorio de Microtecnología y Sistemas Embebidos (MICROSE) del Centro de Investigación en Computación (CIC) del Instituo Politécnico Nacional (IPN).
